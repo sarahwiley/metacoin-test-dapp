@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/sarahwiley/sarahwiley/_apis/build/status/sarahwiley.metacoin-test-dapp)](https://dev.azure.com/sarahwiley/sarahwiley/_build/latest?definitionId=1)
